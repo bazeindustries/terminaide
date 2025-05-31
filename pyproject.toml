@@ -26,6 +26,7 @@ fastapi = "^0.115.12"
 uvicorn = "^0.34.2"
 pywebview = "^5.4"
 requests = "^2.32.3"
+pyfiglet = "^1.0.2"
 
 [tool.poetry.group.demo.dependencies]
 docker = "^7.1.0"
